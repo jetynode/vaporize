@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/jetynode/vaporize#readme",
   "publishConfig": {
-   "@programsmagic:registry": "https://npm.pkg.github.com"
- }
+    "@programsmagic:registry": "https://npm.pkg.github.com"
+  }
 }
