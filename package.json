@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jetynode/vaporize/issues"
   },
-  "homepage": "https://github.com/jetynode/vaporize#readme"
+  "homepage": "https://github.com/jetynode/vaporize#readme",
+  "publishConfig": {
+   "@programsmagic:registry": "https://npm.pkg.github.com"
+ }
 }
